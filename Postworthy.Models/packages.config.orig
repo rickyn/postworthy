@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<packages>
+  <package id="EnyimMemcached" version="2.11" />
+<<<<<<< HEAD
+  <package id="HtmlAgilityPack" version="1.4.6" targetFramework="net40" />
+=======
+  <package id="HtmlAgilityPack" version="1.4.6" />
+>>>>>>> 55f25079d698fe2fa207006ddd62a46bfb1e7d6f
+  <package id="linqtotwitter" version="2.0.28" />
+  <package id="Newtonsoft.Json" version="4.5.8" />
+</packages>
